@@ -1,0 +1,7 @@
+#Mon Dec 23 16:47:38 EET 2024
+base.0=D\:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=D\:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

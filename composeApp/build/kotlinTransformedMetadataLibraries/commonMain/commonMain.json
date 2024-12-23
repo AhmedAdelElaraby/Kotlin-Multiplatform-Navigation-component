@@ -1,0 +1,167 @@
+[
+  {
+    "moduleId": "module org.jetbrains.kotlin:kotlin-stdlib:2.1.0",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlin-kotlin-stdlib-2.1.0-commonMain-ITmP6A.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.runtime-runtime-1.7.1-commonMain-9pDeVQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.foundation-foundation-1.7.1-commonMain-Ti2hsw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material3:material3:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.material3-material3-1.7.1-commonMain-qpUt6Q.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-resources:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.components-components-resources-1.7.1-commonMain-Tn2Qyw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.components:components-ui-tooling-preview:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.components-components-ui-tooling-preview-1.7.1-commonMain--i3iSw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-compose:2.8.0-alpha10",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.navigation-navigation-compose-2.8.0-alpha10-commonMain-x_0rGg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.animation-animation-1.7.1-commonMain-TojQLQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-1.7.1-commonMain-5yvGlQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material:material-icons-core:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.material-material-icons-core-1.7.1-commonMain-OY6u5w.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.material:material-ripple:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.material-material-ripple-1.7.1-commonMain-hYj_-Q.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-graphics:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-graphics-1.7.1-commonMain-kJsJ2w.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-text:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-text-1.7.1-commonMain-22Ga_g.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.core:core-bundle:1.0.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.core-core-bundle-1.0.1-commonMain-fXRodQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-common:2.8.4",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-common-2.8.4-commonMain-FPlmfg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-runtime:2.8.4",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-runtime-2.8.4-commonMain-P_jWsA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose:2.8.4",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-runtime-compose-2.8.4-commonMain-eB6IaQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel:2.8.4",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-2.8.4-commonMain-I44vqw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-compose:2.8.2",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-compose-2.8.2-commonMain-xCtrmg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.2",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.lifecycle-lifecycle-viewmodel-savedstate-2.8.2-commonMain-nn5erw.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-common:2.8.0-alpha10",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.navigation-navigation-common-2.8.0-alpha10-commonMain-Lmwwsg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.navigation:navigation-runtime:2.8.0-alpha10",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.navigation-navigation-runtime-2.8.0-alpha10-commonMain-CWmBjA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.androidx.savedstate:savedstate:1.2.2",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.androidx.savedstate-savedstate-1.2.2-commonMain-rDkiiA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.runtime:runtime-saveable:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.runtime-runtime-saveable-1.7.1-commonMain-dToAUQ.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.animation:animation-core:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.animation-animation-core-1.7.1-commonMain-KAIxIA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.foundation:foundation-layout:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.foundation-foundation-layout-1.7.1-commonMain-Nkt8ew.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-geometry:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-geometry-1.7.1-commonMain-CwQ9Eg.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-unit:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-unit-1.7.1-commonMain-pR3KgA.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.ui:ui-util:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.ui-ui-util-1.7.1-commonMain-3-t5Ow.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.annotation-internal:annotation:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.annotation-internal-annotation-1.7.1-commonMain-BD0V2w.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.kotlinx-kotlinx-coroutines-core-1.8.0-commonMain-UxhG-g.klib",
+    "sourceSetName": "commonMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.collection-internal:collection:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.collection-internal-collection-1.7.1-jbMain-5apXgA.klib",
+    "sourceSetName": "jbMain"
+  },
+  {
+    "moduleId": "module org.jetbrains.compose.collection-internal:collection:1.7.1",
+    "file": "D:\\Github\\Example\\Kotlin-Multiplatform-Navigation-component\\composeApp\\build\\kotlinTransformedMetadataLibraries\\commonMain\\org.jetbrains.compose.collection-internal-collection-1.7.1-commonMain-5apXgA.klib",
+    "sourceSetName": "commonMain"
+  }
+]

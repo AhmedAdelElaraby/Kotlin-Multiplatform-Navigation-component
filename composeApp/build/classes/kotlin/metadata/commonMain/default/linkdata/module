@@ -1,0 +1,2 @@
+
+<composeApp_commonMain>:com.workdev.example:com.workdev.example.theme:!com.workdev.example.ui.Navigation:*com.workdev.example.ui.Screens.FirstScreen:+com.workdev.example.ui.Screens.SecondScreen:Hkotlin_multiplatform_navigation_component.composeapp.generated.resources

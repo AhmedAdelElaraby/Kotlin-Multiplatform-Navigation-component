@@ -1,0 +1,27 @@
+[versions]
+
+kotlin = "2.1.0"
+compose = "1.7.1"
+agp = "8.6.1"
+androidx-activityCompose = "1.9.3"
+androidx-uiTest = "1.7.4"
+androidx-navigation = "2.8.0-alpha10"
+version = "1.7.6"
+version-ui = "1.7.6"
+[libraries]
+
+androidx-activityCompose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activityCompose" }
+androidx-uitest-testManifest = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "androidx-uiTest" }
+androidx-uitest-junit4 = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "androidx-uiTest" }
+androidx-navigation-composee = { module = "org.jetbrains.androidx.navigation:navigation-compose", version.ref = "androidx-navigation" }
+android-preview= { module = "androidx.compose.ui:ui-tooling-preview ",version.ref = "version"}
+android-ui = {module = "androidx.compose.ui:ui" , version.ref = "version-ui"}
+android-material={module = "androidx.compose.material:material" , version.ref = "version-ui"}
+
+
+[plugins]
+
+multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+compose = { id = "org.jetbrains.compose", version.ref = "compose" }
+android-application = { id = "com.android.application", version.ref = "agp" }

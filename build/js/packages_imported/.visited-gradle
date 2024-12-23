@@ -1,0 +1,264 @@
+{
+  "version": "9",
+  "items": {
+    "2b81f950c862b3f76a0dcf1eda5d7c14": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\2.1.0\\fd28fb7924ae2c52bc9a665118b38ffcbcd545f6\\kotlin-stdlib-js-2.1.0.klib"
+    },
+    "b1171ff0f99a90ab9ffd6c697dc14d9d": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.runtime\\runtime-js\\1.7.1\\cf3494a3a7ba554b609f36f9944c9cd4eff49f52\\runtime-js-1.7.1.klib"
+    },
+    "e7d194b2b9b0796021cf909f336d4ae6": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.collection-internal\\collection-js\\1.7.1\\851b7b4ab55c46d1674be1c82ae308ed0d499a8f\\collection-js-1.7.1.klib"
+    },
+    "c40239a4d8c28eab0677446db5cfff5e": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.annotation-internal\\annotation-js\\1.7.1\\d79c8a4f5f64a1b89b7fe4c1b2b9b234c8e9c61f\\annotation-js-1.7.1.klib"
+    },
+    "da2498cb322f3066e609531d5c6babd6": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-dom-api-compat\\2.1.0\\40b26bd1544634256a38fa11cd8b9c0afbc82d01\\kotlin-dom-api-compat-2.1.0.klib"
+    },
+    "ba8177ecda3981427862b37308d71b44": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-js\\0.23.2\\e19f377f0dc24137414f5f3e1be730f60aeb9539\\atomicfu-js-0.23.2.klib"
+    },
+    "5f460de879b1311463aa4ad821c02375": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-js\\1.8.0\\15c3b0e757e1e31196d82616f47e66df3ecd7d5b\\kotlinx-coroutines-core-js-1.8.0.klib"
+    },
+    "e9306c2451bbe8784372b11cb78554d0": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlinx-atomicfu-runtime\\1.9.24\\373f8846d435f6e7f77453cefbb97c548ae4781e\\kotlinx-atomicfu-runtime-1.9.24.klib"
+    },
+    "e3c71d140520c1a7f3813f52978de616": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.foundation\\foundation-js\\1.7.1\\a593f895a839f900ba293e7f62e929d7399b9d3\\foundation-js-1.7.1.klib"
+    },
+    "01c5729a9e5729d227e74ce8a455212f": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.animation\\animation-js\\1.7.1\\37710f47d4546d032f21ca31a45ef375fddd022e\\animation-js-1.7.1.klib"
+    },
+    "832a781be4fe167cec17b187ddf00ad8": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.foundation\\foundation-layout-js\\1.7.1\\66b9a789793ea57cd34cfdc58528ebd12ba2eb55\\foundation-layout-js-1.7.1.klib"
+    },
+    "1143580d2752c20e0b8b7449d2ac173d": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-js\\1.7.1\\61e4dc2590ddad770c3992049c64b762abbaa95\\ui-js-1.7.1.klib"
+    },
+    "d3ba8c8d76f986895a380422890bc08d": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-text-js\\1.7.1\\f864fca0fe92f88ea6d504f401e91ca706eabf83\\ui-text-js-1.7.1.klib"
+    },
+    "c02bf5b20fc49605dd00682cc1bfc1f5": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-graphics-js\\1.7.1\\acadaba9b867ea452c4c2fa1549eb880a3e6c184\\ui-graphics-js-1.7.1.klib"
+    },
+    "654234413a430208c09e975af67b6618": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-unit-js\\1.7.1\\1c6f53976af7cb1f411cb50078e48fd1a325b98d\\ui-unit-js-1.7.1.klib"
+    },
+    "ded713a273ee1d092f2bddfe9360c91f": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-geometry-js\\1.7.1\\f5d5cc1b568b26d48fc4bbbb548f08e2f88fcbf1\\ui-geometry-js-1.7.1.klib"
+    },
+    "0e1f6e679ca4a6bb63177ecb84ba9de2": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-wasm-js\\2.1.0\\b96271506fb37f4d8d1c63db7a57384ab16ae218\\kotlin-stdlib-wasm-js-2.1.0.klib"
+    },
+    "fc8d09d46a6fcbcfa5c32588f08daa37": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-util-js\\1.7.1\\7ee0ad42cccef344a0d9875ef7a9167e144e9a4d\\ui-util-js-1.7.1.klib"
+    },
+    "79f617cc7c20aca754e61f68d745811c": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.runtime\\runtime-wasm-js\\1.7.1\\3b130097005f6b3360c0021de397f3487778e09c\\runtime-wasm-js-1.7.1.klib"
+    },
+    "4bf21b92fbabc5dd9a3b64ea7d7c7145": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.skiko\\skiko-js\\0.8.18\\b649fdddc9460463cb932adf1add9f0cc9d473a9\\skiko-js-0.8.18.klib",
+      "target": "skiko-js\\0.8.18"
+    },
+    "0f3255e665ec5751f61856350f575704": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.collection-internal\\collection-wasm-js\\1.7.1\\392a6abb2ae46a78274054a6e0023331c6f1d39\\collection-wasm-js-1.7.1.klib"
+    },
+    "cfe613044691a0b10b4321b0636e06ea": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.runtime\\runtime-saveable-js\\1.7.1\\178f388ca27ee8d6083e9d6485d074f8c9d74148\\runtime-saveable-js-1.7.1.klib"
+    },
+    "0a0379ccc2c9f16cfc82023312aba2ce": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-runtime-compose-js\\2.8.4\\4f354273440ae0ef9ad79d5628a382a6b8395e75\\lifecycle-runtime-compose-js-2.8.4.klib"
+    },
+    "1c6fc0b4d51e510c7517b56b13805943": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-wasm-js\\0.23.2\\f7046e9f5ce6014c3471098284bd654831bb1f41\\atomicfu-wasm-js-0.23.2.klib"
+    },
+    "1c5d7fced3c3b76768b9c8f50cc4237b": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.annotation-internal\\annotation-wasm-js\\1.7.1\\f237e7a67c656621c0c7f5797b3c139b735d1a64\\annotation-wasm-js-1.7.1.klib"
+    },
+    "f4fcb2d4757f7ce52522637d185843bb": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-runtime-js\\2.8.4\\70cf15b86ae89e3d639bb63892934c33211b6c6e\\lifecycle-runtime-js-2.8.4.klib"
+    },
+    "61108da20006a4cceb8e0b4753db9320": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-wasm-js\\1.8.0\\6fa5af0c703e4957c811aef817336eb6f6572e72\\kotlinx-coroutines-core-wasm-js-1.8.0.klib"
+    },
+    "6252f9c01cad4fe293be712417254004": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-browser-wasm-js\\0.1\\546fc8fbc296c4b18d2719f869bc483f5fcbc0d9\\kotlinx-browser-wasm-js-0.1-javadoc.klib"
+    },
+    "c22caabe72b9869b857888f82498441a": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-common-js\\2.8.4\\d519a0547599d3695306dfe6180857f9eb9d37c1\\lifecycle-common-js-2.8.4.klib"
+    },
+    "186dfd6b5da1254d2120cdb0f903ff76": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-js\\2.8.4\\4ee85bd3e584312880d58d344de398903174dba4\\lifecycle-viewmodel-js-2.8.4.klib"
+    },
+    "7361fdde1cd17e70d16c775eeb18d3ef": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.foundation\\foundation-wasm-js\\1.7.1\\528eee78324e0cb0dfbe895dbf2fb36f1350afbf\\foundation-wasm-js-1.7.1.klib"
+    },
+    "ab59cc2ebb61d0119465abaed91c26d9": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.animation\\animation-wasm-js\\1.7.1\\9a28ae47ca670ce9707b8227b84adf37d234b6e9\\animation-wasm-js-1.7.1.klib"
+    },
+    "d4464a4d3d5a1942e2c08feeea233a9b": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.foundation\\foundation-layout-wasm-js\\1.7.1\\f1e42f21726cdd3d6b65f56164030e2c5de5151f\\foundation-layout-wasm-js-1.7.1.klib"
+    },
+    "484e10f5b7ffd9d44effe661283802cd": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-wasm-js\\1.7.1\\51fd50658000aa996c33df829b1db364a842a012\\ui-wasm-js-1.7.1.klib"
+    },
+    "121ac75c032c732db4b0e34e81d1530f": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-text-wasm-js\\1.7.1\\54a2b5f2740861426a348314d6c1e781ac9a3118\\ui-text-wasm-js-1.7.1.klib"
+    },
+    "d68796ae3ca836c1034d087eae8fa755": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-graphics-wasm-js\\1.7.1\\4bc259b16b94a4815ff4715e985c39a3f4f3040b\\ui-graphics-wasm-js-1.7.1.klib"
+    },
+    "9e2a35c93ba2d41117917f82927b6c1f": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-unit-wasm-js\\1.7.1\\d1388330032afa41c882ff52ffc47485b63f0bb0\\ui-unit-wasm-js-1.7.1.klib"
+    },
+    "0e8cdf65c2314d38d9260038c2ffb489": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-geometry-wasm-js\\1.7.1\\527b1bca55c5d15b9e8e4ab8640d75bdc56b6420\\ui-geometry-wasm-js-1.7.1.klib"
+    },
+    "55869c082e6aa6fc080c48585b7445b3": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-util-wasm-js\\1.7.1\\7ad89899e7a467c64565bd7fd634042c266b3365\\ui-util-wasm-js-1.7.1.klib"
+    },
+    "60c48f3ea1efdc220ecca353c3a59adb": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.skiko\\skiko-wasm-js\\0.8.18\\10ee2b383a5338e648b417d5338deb9f98c0c1c\\skiko-wasm-js-0.8.18.klib",
+      "target": "skiko-wasm-js\\0.8.18"
+    },
+    "a6322db18a73dc0754317cedef2b2063": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.animation\\animation-core-js\\1.7.1\\8a37a4874614993d5a6dc60e2717db88fb78058f\\animation-core-js-1.7.1.klib"
+    },
+    "b4f76ed9845a70afc57b3a1898e0fce4": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material3\\material3-js\\1.7.1\\d447717e4994b59a759ec192314ac7774b1c3858\\material3-js-1.7.1.klib"
+    },
+    "0c14c1aa1d7ee9263f899ac1bae88b32": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material\\material-ripple-js\\1.7.1\\ee3f0282a059ac444725c92ff25c030990db2fa9\\material-ripple-js-1.7.1.klib"
+    },
+    "9a27a364670fa8015d7e1908e97eaaf0": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material\\material-icons-core-js\\1.7.1\\e1758399b3d6ab37d1bc57e8f3606ce9b176bec5\\material-icons-core-js-1.7.1.klib"
+    },
+    "e50e9b0b75e0c45c430c945f0adfbc19": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-datetime-js\\0.6.0\\12badb635a405f5be33850fef55005681598be13\\kotlinx-datetime-js-0.6.0.klib",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime\\0.6.0"
+    },
+    "4f73594a4a4dafe70373af6a047d4abf": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.skiko\\skiko-js-wasm-runtime\\0.8.18\\1a60e4e81541bb430d26ea1547ef5c871218ff03\\skiko-js-wasm-runtime-0.8.18.jar",
+      "target": "skiko-js-wasm-runtime\\0.8.18"
+    },
+    "aabd2f46fead63ab3b52bd090077097e": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-serialization-core-js\\1.6.2\\27bceec3b89d0eec8f951f8b25f16fffa0df214e\\kotlinx-serialization-core-js-1.6.2.klib"
+    },
+    "46d89e8cc185e69643d71e2bb69dcf13": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.runtime\\runtime-saveable-wasm-js\\1.7.1\\325e38fe018c352a39a7ef8b9f40be88f269b13d\\runtime-saveable-wasm-js-1.7.1.klib"
+    },
+    "cd440704667853fcdddf55cfce4ef29b": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-runtime-compose-wasm-js\\2.8.4\\8ec0c0686aa7149bbeadf4aa40b5a645a3a74a3b\\lifecycle-runtime-compose-wasm-js-2.8.4.klib"
+    },
+    "64e84c39ce6ffe477c461e97d617fe79": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.components\\components-resources-js\\1.7.1\\49691c054e9746e632b0ea749ef4f4c73b791f8e\\library-js-1.7.1.klib",
+      "target": "components-resources-js\\1.7.1"
+    },
+    "55e97ba83b446a3ca8a5930eb36802db": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-runtime-wasm-js\\2.8.4\\3ea93bddfadea0cc538967e1bc7974a48a05d8c3\\lifecycle-runtime-wasm-js-2.8.4.klib"
+    },
+    "74f8cca47a732801d44bde94983b4d32": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.components\\components-ui-tooling-preview-js\\1.7.1\\49a1b450d1e188a8c58398ab5d0582a134839567\\library-js-1.7.1.klib"
+    },
+    "273faddb2d18ad95df41747cf5ea7835": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.navigation\\navigation-compose-js\\2.8.0-alpha10\\3abdd0038ae48c5605274a928d92d660e9e3c8e5\\navigation-compose-js-2.8.0-alpha10.klib"
+    },
+    "c3713985aeb19002c84c99fa2f381656": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-compose-js\\2.8.2\\2a0957c4196aa9fd81cea195a65cfaf6c6042a66\\lifecycle-viewmodel-compose-js-2.8.2.klib"
+    },
+    "8689a5b7cccb7bb5b1a01a59af650a15": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-common-wasm-js\\2.8.4\\934040fc02c41d1c0f9e2d777ba76946f1a19d62\\lifecycle-common-wasm-js-2.8.4.klib"
+    },
+    "3ed577424ce1584cefb3209a184baf72": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-wasm-js\\2.8.4\\6117540429bb1943258ff47db14c6a338e7b5db3\\lifecycle-viewmodel-wasm-js-2.8.4.klib"
+    },
+    "dbcbd5eb2aad096fa939c8d4a32ca831": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.animation\\animation-core-wasm-js\\1.7.1\\928026491a2e3ba039f674164398aec9cb635508\\animation-core-wasm-js-1.7.1.klib"
+    },
+    "d21d9bf72c22396bdd0d90448369fbde": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-savedstate-js\\2.8.2\\9bc30d9b5c331c0a60c4febf586d4d9076f7c425\\lifecycle-viewmodel-savedstate-js-2.8.2.klib"
+    },
+    "d8f09fe5dfcbdaf6fde4916d046c03ec": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material3\\material3-wasm-js\\1.7.1\\4dd8dc4e4ac9382e1ddcff831a381a2159718e31\\material3-wasm-js-1.7.1.klib"
+    },
+    "064ebeddcf34df6741639550415b7a69": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material\\material-ripple-wasm-js\\1.7.1\\ef47c9fa881eb713f47ef389a507220c9cf7822\\material-ripple-wasm-js-1.7.1.klib"
+    },
+    "f98a74dcc073079c44637fa9f1578b26": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.material\\material-icons-core-wasm-js\\1.7.1\\5ed35811e5ada42b6184935670de617af2dcc235\\material-icons-core-wasm-js-1.7.1.klib"
+    },
+    "a4217dae6633a84e5d55b06f29404f23": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-datetime-wasm-js\\0.6.0\\ef7a9f6a2d3d743418db62508be4ca96760bf85b\\kotlinx-datetime-wasm-js-0.6.0.klib",
+      "target": "Kotlin-DateTime-library-kotlinx-datetime-wasm-js\\0.6.0"
+    },
+    "48316275c8d9cbfa355aa16f3de86bb6": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-serialization-core-wasm-js\\1.6.2\\6f54ca1a4477e773a63266210cb8ca229e366ced\\kotlinx-serialization-core-wasm-js-1.6.2.klib"
+    },
+    "22201fb48b9fe2c7c8244d2838483d42": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.components\\components-resources-wasmJs\\1.7.1\\dc82877c830f3a5d1801a19c990e58053eaa4d76\\library-wasm-js-1.7.1.klib"
+    },
+    "3d4988c400ef0f100b3270e4394e60a2": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.components\\components-ui-tooling-preview-wasmJs\\1.7.1\\433ef8bb59d98dd38841687ca2343155ffa8751\\library-wasm-js-1.7.1.klib"
+    },
+    "12411bbc701fdfbb2fe84c38d534ae64": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.savedstate\\savedstate-js\\1.2.2\\82536f6e66d0139d4e9fa32aeb34f73afe3e18de\\savedstate-js-1.2.2.klib"
+    },
+    "b97c645934d2e0c4b2a609ef5ca908f5": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.core\\core-bundle-js\\1.0.1\\bff3f717271b0898cb67d06654745b2a8e36b5c\\core-bundle-js-1.0.1.klib"
+    },
+    "e78a0d70d091350580a77ecfd07503d5": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.navigation\\navigation-runtime-js\\2.8.0-alpha10\\e884337d643d927120362d605d5f3fca8e1b3c05\\navigation-runtime-js-2.8.0-alpha10.klib"
+    },
+    "99ac858d8ddf4893af7a1d6313eb5b36": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.navigation\\navigation-common-js\\2.8.0-alpha10\\4f9b3a2711c6d74770fa5a20d31b9ba3365fbe77\\navigation-common-js-2.8.0-alpha10.klib"
+    },
+    "440f73aa981308906617190b894f0895": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.html\\html-core-js\\1.7.1\\ef65535850ee86a5ae1cfd2f513e1478d76c1aae\\html-core-js-1.7.1.klib",
+      "target": "html-core-js\\1.7.1"
+    },
+    "4e952dbd50282b6f108ea6213abd5108": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.navigation\\navigation-compose-wasm-js\\2.8.0-alpha10\\7e42b88346ad80f4a0e6ae92b5e95d70bbae73e4\\navigation-compose-wasm-js-2.8.0-alpha10.klib"
+    },
+    "e7e804fc5a6e9cd3d5a888b72e7503be": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-compose-wasm-js\\2.8.2\\ded0384aea32a53849846d9f350d9aab4ea8c7cb\\lifecycle-viewmodel-compose-wasm-js-2.8.2.klib"
+    },
+    "5cfe4cfbcd6f15f29faebd70d2133e7a": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.html\\internal-html-core-runtime-js\\1.7.1\\eb60e3896fd1c291da31f50c44136065d0260c24\\internal-html-core-runtime-js-1.7.1.klib"
+    },
+    "4234f05532071ad0c63481e958c243c1": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.lifecycle\\lifecycle-viewmodel-savedstate-wasm-js\\2.8.2\\fcbdf02c06d15d2ed40db2e6c8b34e7df1ba4d5d\\lifecycle-viewmodel-savedstate-wasm-js-2.8.2.klib"
+    },
+    "1b787c8010ce75cd6379768224b02855": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.savedstate\\savedstate-wasm-js\\1.2.2\\deaffc3a1b8e3023bba012e064c63c417c45c293\\savedstate-wasm-js-1.2.2.klib"
+    },
+    "92e9d47e75678ff5927054a324961049": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.core\\core-bundle-wasm-js\\1.0.1\\10413c2f5eb9a03522ad9c6b37d6d9e0666e9a67\\core-bundle-wasm-js-1.0.1.klib"
+    },
+    "366814ae5449ec0bedbd39d60e88e8e8": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.navigation\\navigation-runtime-wasm-js\\2.8.0-alpha10\\3d2b0195391e9d3154f5bcf24e9e8a149d8a7b1c\\navigation-runtime-wasm-js-2.8.0-alpha10.klib"
+    },
+    "d865200e1d2e1221dbcd746bb14f9ca2": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.androidx.navigation\\navigation-common-wasm-js\\2.8.0-alpha10\\42d5f0e8197d8d895762caa7f73c21f4a993b189\\navigation-common-wasm-js-2.8.0-alpha10.klib"
+    },
+    "ac62a186f94e6acf15647d75e093f642": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js\\2.1.0\\4078f1714f6ba1e83ccb8a61800795bb769b6741\\kotlin-test-js-2.1.0.klib"
+    },
+    "1110e53fc4dbf8e0a23344be5a2e519c": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-test-js\\1.7.1\\1b583381c3e82eea062686bfbb6424bdaa1c6e7b\\ui-test-js-1.7.1.klib"
+    },
+    "5c5e2962ec1738582b8870949b252a39": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-test-js\\1.8.0\\4af8dcced470b2e011a76d2f597e46a595ee64da\\kotlinx-coroutines-test-js-1.8.0.klib"
+    },
+    "d4f030e3ab31427af5ddbb6872f44b20": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-wasm-js\\2.1.0\\3214f5b297215400e24933956a5adf06e89ef305\\kotlin-test-wasm-js-2.1.0.klib"
+    },
+    "1c2f188e488d7a2ee5f36448979734a4": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.compose.ui\\ui-test-wasm-js\\1.7.1\\e80a05dc1c3097a9c031a666b1135a492c43d1e\\ui-test-wasm-js-1.7.1.klib"
+    },
+    "ed257928580acdac178f235bdd94f85e": {
+      "src": "D:\\KMP\\-Kotlin-Multiplatform\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-test-wasm-js\\1.8.0\\708461cb13ceddbd1d38849b4b7f74d8f20d1767\\kotlinx-coroutines-test-wasm-js-1.8.0.klib"
+    }
+  }
+}
