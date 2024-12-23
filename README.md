@@ -10,7 +10,7 @@ In Jetpack Compose, you can use the Navigation component to navigate between scr
 <html>
 <body>
     <h1> Screen Android </h1>
-      <img src="image/image_mobile.gif" alt="Demo GIF" width="150" style="margin-right: 50px;">
+      <img src="images/image_mobile.gif" alt="Demo GIF" width="250" style="margin-right: 50px;">
 </body>
 </html>
 
@@ -32,7 +32,7 @@ Run android UI tests on the connected device: `./gradlew :composeApp:connectedDe
 <html>
 <body>
     <h1> Screen Desktop </h1>
-      <img src="image/image_desktop.gif" alt="Demo GIF" width="150" style="margin-right: 50px;">
+      <img src="images/image_desktop.gif" alt="Demo GIF" width="350" style="margin-right: 50px;">
 </body>
 </html>
  
@@ -48,7 +48,7 @@ Run desktop UI tests: `./gradlew :composeApp:jvmTest`
 <html>
 <body>
     <h1> Screen Web </h1>
-      <img src="image/image_web.gif" alt="Demo GIF" width="150" style="margin-right: 50px;">
+      <img src="images/image_web.gif" alt="Demo GIF" width="350" style="margin-right: 50px;">
 </body>
 
 </html>
